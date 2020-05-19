@@ -305,7 +305,7 @@ archive:
 # Categories Page
 #---------------------------
 category:
-  banner_img: https://qiniu.yume.ink/IMG_4970.JPG
+  banner_img: https://wx2.sinaimg.cn/large/006iwvhEgy1gex0bvannxj31400u012h.jpg
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 'あさひ､夢見し' # 打字机内容
