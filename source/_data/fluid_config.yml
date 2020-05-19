@@ -11,9 +11,9 @@
 # 全局
 # Site
 #---------------------------
-favicon: http://qiniu.yume.ink/miki_red_favicon.png # 网站标签页的 icon
+favicon: https://qiniu.yume.ink/miki_red_favicon.png # 网站标签页的 icon
 
-apple_touch_icon: http://qiniu.yume.ink/miki_red_favicon.png # 用于苹果设备的 icon
+apple_touch_icon: https://qiniu.yume.ink/miki_red_favicon.png # 用于苹果设备的 icon
 
 title_join_string: ' - '  # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 
@@ -149,7 +149,7 @@ scroll_top_arrow:  # 向顶部滚动的箭头
 # Index Page
 #---------------------------
 index:
-  banner_img: http://qiniu.yume.ink/IMG_4969.JPG  # 首页 Banner 头图，以下相同
+  banner_img: https://qiniu.yume.ink/IMG_4969.JPG  # 首页 Banner 头图，以下相同
   banner_img_height: 100  # 头图高度，屏幕百分比，available: 0 - 100
   banner_mask_alpha: 0.3  # 头图黑色蒙版的透明度，available: 0 - 1.0， 0 是完全透明（无蒙版），1 是完全不透明
   post_default_img: '' # 默认的文章封面图，当没有指定 index_img 时会使用该图片，若都为空则不显示任何图片
@@ -295,17 +295,17 @@ livere:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: http://qiniu.yume.ink/IMG_7473.JPG
+  banner_img: https://qiniu.yume.ink/IMG_7473.JPG
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
-  subtitle: '不在美中度过的每一天 都是在浪费生命' # 打字机内容
+  subtitle: '想变成虎鲸 做最大只嘤嘤怪' # 打字机内容
 
 #---------------------------
 # 分类归档页
 # Categories Page
 #---------------------------
 category:
-  banner_img: http://qiniu.yume.ink/IMG_4970.JPG
+  banner_img: https://qiniu.yume.ink/IMG_4970.JPG
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 'あさひ､夢見し' # 打字机内容
@@ -315,10 +315,10 @@ category:
 # Tags Page
 #---------------------------
 tag:
-  banner_img: http://qiniu.yume.ink/IMG_4970.JPG
+  banner_img: https://qiniu.yume.ink/IMG_4970.JPG
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
-  subtitle: '我们也是星辰' # 打字机内容
+  subtitle: '我们也是星尘' # 打字机内容
   tagcloud: # 标签云
     min_font: 15
     max_font: 30
@@ -332,11 +332,11 @@ tag:
 # About Page
 #---------------------------
 about:  # 关于页需要手动创建，具体请见：https://hexo.fluid-dev.com/docs/guide/#%E5%85%B3%E4%BA%8E%E9%A1%B5
-  banner_img: http://qiniu.yume.ink/DDD5931F-638D-42A9-B6A6-865DC1229725.jpeg
+  banner_img: https://qiniu.yume.ink/DDD5931F-638D-42A9-B6A6-865DC1229725.jpeg
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: '爱甜食,爱气泡水加冰块,不好不坏不可爱' # 打字机内容
-  avatar: http://qiniu.yume.ink/B67ABB84-FE31-4B7C-901D-96DDA0D5684C.jpeg # 头像
+  avatar: https://qiniu.yume.ink/B67ABB84-FE31-4B7C-901D-96DDA0D5684C.jpeg # 头像
   name: Miki Ting
   introduce: 能吃 / 能喝 / 会玩 # 支持 HTML
   icons: # 更多图标可从 https://github.com/fluid-dev/static/blob/master/hexo-theme-fluid/iconfont.png 查找，class 代表图标的 css class
@@ -370,12 +370,12 @@ links:
     - {
       title: "Aki's Blog",
       intro: 'Aki的博客',
-      link: 'http://aki.ink',
-      image: 'http://qiniu.yume.ink/aki-ink-favicom.jpeg'
+      link: 'https://aki.ink',
+      image: 'https://qiniu.yume.ink/aki-ink-favicom.jpeg'
     }
     - {
       title: '高婷.我爱你',
       intro: '节日的惊喜',
-      link: 'http://高婷.我爱你',
+      link: 'https://高婷.我爱你',
       image: '/img/favicon.png'
     }
