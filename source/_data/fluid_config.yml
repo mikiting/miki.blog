@@ -295,7 +295,7 @@ livere:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://qiniu.yume.ink/IMG_7473.JPG
+  banner_img: https://mbi.yume.ink/banner/IMG_7635.JPG
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: '想变成虎鲸 做最大只嘤嘤怪' # 打字机内容
@@ -305,7 +305,7 @@ archive:
 # Categories Page
 #---------------------------
 category:
-  banner_img: https://miki-blog-1253766190.cos.ap-nanjing.myqcloud.com/IMG_7472.JPG
+  banner_img: https://mbi.yume.ink/banner/IMG_7472.JPG
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 'あさひ､夢見し' # 打字机内容
@@ -315,7 +315,7 @@ category:
 # Tags Page
 #---------------------------
 tag:
-  banner_img: https://qiniu.yume.ink/IMG_4970.JPG
+  banner_img: https://mbi.yume.ink/banner/IMG_4970.JPG
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: '我们也是星尘' # 打字机内容
