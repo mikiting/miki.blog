@@ -91,16 +91,16 @@ aplayer:  # 音乐播放器，注意不能与 hexo-tag-aplayer 插件共用
   songs:  # 歌曲列表，必须传入下列各参数，其中 url 与 cover 在本地需存于 source 目录，更多参数见文档：https://aplayer.js.org/#/zh-Hans/?id=%E5%8F%82%E6%95%B0
     - { name: 'A Rainy Morning ~Main Title~', 
         artist: '柏大輔', 
-        url: 'http://music.163.com/song/media/outer/url?id=26465043.mp3', 
-        cover: 'http://p1.music.126.net/k33uqA6K2dx2wczsNnw-NA==/2274889557916813.jpg?param=130y130' }
+        url: 'https://music.163.com/song/media/outer/url?id=26465043.mp3', 
+        cover: 'https://p1.music.126.net/k33uqA6K2dx2wczsNnw-NA==/2274889557916813.jpg?param=130y130' }
     - { name: 'I (sun)', 
         artist: '浅野隼人', 
-        url: 'http://music.163.com/song/media/outer/url?id=472361874.mp3', 
-        cover: 'http://p2.music.126.net/2gcP8d5LYCOFhzcil0DkIg==/18700493767095167.jpg?param=130y130' }
+        url: 'https://music.163.com/song/media/outer/url?id=472361874.mp3', 
+        cover: 'https://p2.music.126.net/2gcP8d5LYCOFhzcil0DkIg==/18700493767095167.jpg?param=130y130' }
     - { name: 'BLUE REFLECTION (END Edit)', 
         artist: '浅野隼人', 
-        url: 'http://music.163.com/song/media/outer/url?id=472361922.mp3', 
-        cover: 'http://p2.music.126.net/2gcP8d5LYCOFhzcil0DkIg==/18700493767095167.jpg?param=130y130' }
+        url: 'https://music.163.com/song/media/outer/url?id=472361922.mp3', 
+        cover: 'https://p2.music.126.net/2gcP8d5LYCOFhzcil0DkIg==/18700493767095167.jpg?param=130y130' }
 
 version:  # 版本相关
   check: true  # 每次生成检测是否为最新版本
@@ -140,7 +140,7 @@ banner_parallax: true  # 头图滚动视差
 #---------------------------
 footer:
   statistics:  # 统计网站 PV、UV，使用的是不蒜子，显示在页脚  *不蒜子近期连接不稳定，谨慎开启
-    enable: false
+    enable: true
     pv_format: "总访问量 {} 次"  # 显示的文本，{}是数字的占位符（必须包含)，下同
     uv_format: "总访客数 {} 人"
 
